@@ -1,7 +1,6 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
@@ -48,5 +47,13 @@
     "webpack": "^5.65.0",
     "webpack-stream": "^7.0.0"
   },
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saidahmedovvvv/millenium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Saidahmedovvvv/millenium/issues"
+  },
+  "homepage": "https://github.com/Saidahmedovvvv/millenium#readme",
+  "description": ""
 }
